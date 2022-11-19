@@ -36,3 +36,11 @@ input {
 img {
 	max-width: 300px;
 }
+
+.header {
+	padding: 60px;
+	text-align: center;
+	background: purple;
+	color: white;
+	font-size: 30px;
+  }
