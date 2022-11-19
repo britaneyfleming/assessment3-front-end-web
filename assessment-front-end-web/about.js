@@ -18,3 +18,4 @@ let duckyImage = document.getElementById("pic1")
 duckyImage.addEventListener('mouseover', function(event){
 	alert("You look amazing!")
 })
+
